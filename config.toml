@@ -1,4 +1,4 @@
-baseURL = 'http://blog.sarama.xyz/'
+baseURL = 'https://blog.sarama.xyz/'
 languageCode = 'en-us'
 title = 'Sarama Blog'
 theme =  "anubis"
