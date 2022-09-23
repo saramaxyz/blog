@@ -1,0 +1,7 @@
+baseURL = 'http://blog.sarama.xyz/'
+languageCode = 'en-us'
+title = 'Sarama Blog'
+theme =  "anubis"
+
+[params]
+author = "Sarama"
